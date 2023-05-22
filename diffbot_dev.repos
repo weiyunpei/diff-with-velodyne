@@ -1,0 +1,9 @@
+repositories:
+  src/rplidar_ros:
+    type: git
+    url: https://github.com/ros-mobile-robots/rplidar_ros
+    version: noetic-devel
+  src/remo_description:
+    type: git
+    url: https://github.com/ros-mobile-robots/remo_description
+    version: main
