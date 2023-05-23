@@ -1,4 +1,4 @@
-# test
+# diff
 A diffbot using velodyne(VLP-16 and HLD-32E).
 About the basic models please see here for more informations: https://github.com/ros-mobile-robots/diffbot.
 
